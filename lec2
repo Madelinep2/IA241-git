@@ -1,0 +1,13 @@
+"""
+this is a regional comment
+
+lec2
+
+"""
+print('hello world')
+
+
+print ( 123 )
+
+print ( 123. )
+print ( '123' ) 
